@@ -33,7 +33,7 @@
       <CookieManager guiclass="CookiePanel" testclass="CookieManager" testname="HTTP Cookie Manager" enabled="true">
         <collectionProp name="CookieManager.cookies">
           <elementProp name="JSESSIONID" elementType="Cookie" testname="JSESSIONID">
-            <stringProp name="Cookie.value">411B326560CA097D123F819D52CB0F25</stringProp>
+            <stringProp name="Cookie.value">411B326560CA097D123F819D52CB0F35</stringProp>
             <stringProp name="Cookie.domain"></stringProp>
             <stringProp name="Cookie.path"></stringProp>
             <boolProp name="Cookie.secure">false</boolProp>
